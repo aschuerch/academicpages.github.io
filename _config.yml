@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anita Schürch"
 title_separator          : "-"
 name                     : &name "Anita Schürch"
-description              : &description "personal description"
+description              : &description "Bioinformatician"
 url                      : https://aschuerch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aschuerch/aschuerch.github.io"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Anita C. Schürch"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Utrecht, NL"
   employer         : 
   googlescholar    : "https://scholar.google.nl/citations?user=xh5gN60AAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AnitaSchurch"
   vine             :
   weibo            :
   xing             :
