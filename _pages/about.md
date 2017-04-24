@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anita Schürch's nonsupplementary preassumptions"
+title: "Sedimentary documentary"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
