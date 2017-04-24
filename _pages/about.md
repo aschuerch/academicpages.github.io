@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anita Schurch's website"
+title: "Anita Schürch's nonsupplementary preassumptions"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
