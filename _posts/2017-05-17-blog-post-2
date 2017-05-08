@@ -1,0 +1,19 @@
+---
+title: 'Drawing a tree with colored tips in R (ggtree)'
+date: 2017-05-17
+permalink: /posts/2017-05-17-blog-post-2
+tags:
+  - bioinformatics
+  - poster
+  - plasmid
+  - ABPHM17
+---
+
+This blogpost links to the poster presented at APPLIED BIOINFORMATICS AND PUBLIC HEALTH MICROBIOLOGY 2017 in Cambridge
+
+```
+<img src="https://aschuerch.github.io/images/20170514_poster.pdf">
+ 
+# Gist
+
+<script src="https://gist.github.com/aschuerch/2e467eb8c49fe0f81bddff667ced88fe.js"></script>
