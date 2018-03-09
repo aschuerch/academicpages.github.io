@@ -1,5 +1,5 @@
 
-Personal page of Anita Schürch
+Personal academic page of Anita Schürch
 
 
 
