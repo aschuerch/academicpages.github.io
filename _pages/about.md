@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a bioinformatician working in pathogen genomics. I am heading a small group 
-that provides bioinformatics support for a medical microbiology group. In short, we design, write and maintain pipelines and databases, carry out or advise on analysis of high-throughput sequencing data and 
+that provides bioinformatics support for a medical microbiology department of a university hospital. In short, we design, write and maintain pipelines and databases, carry out or advise on analysis of high-throughput sequencing data and 
 provide bioinformatics education and consultation. 
 
 My own research interest is to find 
