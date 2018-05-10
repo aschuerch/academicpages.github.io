@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a bioinformatician working in pathogen genomics. I am heading a small group of bioinformatician 
-that provide support for a medical microbiology group. In short, we design, write and maintain pipelines and databases, carry out or advise on analysis of high-throughput sequencing data and provide bioinformatics education. 
+I am a bioinformatician working in pathogen genomics. I am heading a small group 
+that provides bioinformatics support for a medical microbiology group. In short, we design, write and maintain pipelines and databases, carry out or advise on analysis of high-throughput sequencing data and 
+provide bioinformatics education and consultation. 
 
 My own research interest is to find 
 patterns in DNA sequencing data and to apply this knowledge to the genomic epidemiology of 
