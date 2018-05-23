@@ -98,7 +98,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         : "aschurch761a132a"
-  orcid            : "0000-0003-1894-7545"
+  orcid            : "http://orcid.org/0000-0003-1894-7545"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -170,16 +170,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
