@@ -17,7 +17,7 @@ patterns in DNA sequencing data and to apply this knowledge to the genomic epide
 organisms causing infectious diseases. These patterns translated to sequence differences 
 corresponding to transmission of *Mycobacterium tuberculosis* strains during my phD; or to distinct physical 
 entities, such as the identification and reconstruction of viruses from metagenome data. Recently, I am interested in the 
-reconstruction of plasmids from bacterial whole genome short read sequencing data. 
+reconstruction and epidemiology of plasmids from bacterial whole genome sequencing data. 
 
 I am passionate about teaching and supervising, because I like to share my enthousiasm for 
 bioinformatics, open science and reproducible research as a way to do difficult tasks 
