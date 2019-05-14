@@ -14,13 +14,12 @@ provide bioinformatics education and consultation.
 
 My own research interest is to find 
 patterns in DNA sequencing data and to apply this knowledge to the genomic epidemiology of 
-organisms causing infectious diseases. These patterns translated to sequence differences 
-corresponding to transmission of *Mycobacterium tuberculosis* strains during my phD; or to distinct physical 
-entities, such as the identification and reconstruction of viruses from metagenome data. Recently, I am interested in the 
-reconstruction and epidemiology of plasmids from bacterial whole genome sequencing data. 
+organisms causing infectious diseases. Recently, I am interested in the 
+reconstruction and epidemiology of plasmids and mobile genetic elements from bacterial sequencing data. In earlier years, my interests included the genomic typing of *Mycobacterium tuberculosis* during my phD, and the identification and reconstruction of viruses from metagenome data. 
 
 I am passionate about teaching and supervising, because I like to share my enthousiasm for 
 bioinformatics, open science and reproducible research as a way to do difficult tasks 
 [better, faster, stronger](https://www.youtube.com/watch?v=gAjR4_CbPpQ). 
 I teach university courses and [Carpentries workshops](https://carpentries.org/) as an instructor and trainer, 
 and contribute to lesson development as a lesson maintainer for the [Data Carpentry Genomics lesson](http://www.datacarpentry.org/lessons/#genomics-workshop).
+
