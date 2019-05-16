@@ -4,7 +4,7 @@ title: "Genomics of plasmids"
 excerpt: "Project description"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
+  - "/about"
   - "/nmp.html"
 ---
 Plasmids are independently replicating fragments within a bacterial cell. 
