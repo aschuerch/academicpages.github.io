@@ -10,9 +10,8 @@ redirect_from:
 Plasmids are independently replicating fragments within a bacterial cell. 
 They often contain genetic information that is beneficial for their host cells, 
 such as features that confer antimicrobial resistance or virulence factors. 
-Plasmids are therefore a major driving force for the spread of resistance and bacterial adaptation. 
-However, to date, the full range and consequence of the spread of beneficial traits on self-replicating 
-and transferable elements still needs to be disclosed. This is due to the challenges associated with the reconstruction of plasmids 
+Plasmids are a major driving force for the spread of resistance and bacterial adaptation. 
+However, to date, the full range and consequence of the spread of beneficial traits on plasmids still needs to be disclosed. This is due to the challenges associated with the reconstruction of plasmids 
 from short read sequencing data which often results in incomplete or merged sequences.
 We reconstruct plasmids with a combination of long read, hybrid assembly and machine learning techniques and 
 use this prediction to explore plasmidomes.
