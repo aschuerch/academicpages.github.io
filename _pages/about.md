@@ -18,6 +18,6 @@ organisms causing infectious diseases. We are interested in the
 I am passionate about teaching and supervising, because I like to share my enthousiasm for 
 bioinformatics, open science and reproducible research as a way to do difficult tasks 
 [better, faster, stronger](https://www.youtube.com/watch?v=gAjR4_CbPpQ). 
-I teach university courses and [Carpentries workshops](https://carpentries.org/) as an instructor and trainer, 
+I teach university courses and [Carpentries workshops](https://carpentries.org/) as an instructor 
 and contribute to lesson development as a lesson maintainer for the [Data Carpentry Genomics lesson](http://www.datacarpentry.org/lessons/#genomics-workshop).
 
